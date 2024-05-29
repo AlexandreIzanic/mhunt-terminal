@@ -1,0 +1,13 @@
+.command {
+  background-color: transparent;
+  font-family: "VT323", monospace;
+  border: none;
+  width: 90%;
+  outline: none;
+  box-shadow: none;
+  padding: 0;
+  letter-spacing: 0.1em;
+
+  -webkit-font-smoothing: none;
+  line-height: 1.2;
+}

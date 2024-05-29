@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  color: #73abad;
+  font-family: "VT323", monospace;
+}
